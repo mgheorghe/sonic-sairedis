@@ -38,7 +38,7 @@ Install dependencies:
 
 Install building dependencies:
 
-    sudo apt-get install libtool autoconf dh-exec
+    sudo apt-get install libtool autoconf dh-exec autoconf-archive
 
 There are a few different ways you can install sairedis.
 
